@@ -38,7 +38,7 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 | Component | Quantity |
 |---|---|
 | [VSD Squadron Mini development board with CH32V003F4U6 chip with 32-bit RISC-V core based on RV32EC instruction set] | 1 |
-| [4x4 Matrix Keypad Membrane Switch](https://robu.in/product/4x4-matrix-keypad-membrane-switch-arduino-arm-mcu/? gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9MvtmVv5R4qeRMKR2sHxFN9gX-r40MK_EpD7TBL31eXKeJ1w0iur34aAoDQEALw_wcB) | 1 |
+| [4x4 Matrix Keypad Membrane Switch](https://robu.in/product/4x4-matrix-keypad-membrane-switch-arduino-arm-mcu/?gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9MvtmVv5R4qeRMKR2sHxFN9gX-r40MK_EpD7TBL31eXKeJ1w0iur34aAoDQEALw_wcB) | 1 |
 | [0.96 Inch I2C/IIC 4-Pin OLED Display Module](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/) | 2 |
 | [Mini Breadboard](https://robu.in/product/170-pts-mini-breadboard-syb-170-green/) | 2 |
 | [Jumper Cables](https://robu.in/product/20cm-dupont-wire-color-jumper-cable-2-54mm-1p-1p-female-female-40pcs/) | 10 |
