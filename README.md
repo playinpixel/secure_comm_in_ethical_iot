@@ -66,7 +66,7 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 
 
 
-|OLED display 1 1|VSD Squadron mini|
+|OLED display 1 |VSD Squadron mini|
 |---|---|
 |VCC|VCC|
 |GND|GND|
