@@ -1,7 +1,7 @@
 # Secure Communication in Ethical IoT: A Demonstration with RISC-V
 
 # Introduction
-In the ever-expanding world of the Internet of Things (IoT), ensuring the security of communication between devices is paramount. This project showcases a fundamental concept in secure communication: **end-to-end encryption**. We utilize the power of the RISC-V architecture on the VSDSquadron microcontroller to demonstrate how data can be scrambled during transmission and only be unraveled by the intended recipient.
+In the ever-expanding world of the Internet of Things (IoT), ensuring the security of communication between devices is paramount. This project showcases a fundamental concept in secure communication: **end-to-end encryption**. We utilize the power of the RISC-V architecture on the VSDSquadron microcontroller to demonstrate how data can be scrambled during transmission and only be unravelled by the intended recipient.
 
 This project aligns perfectly with the hackathon's themes of **ethical IoT** and **security with RISC-V**. By focusing on secure communication, we address ethical concerns surrounding data privacy and unauthorized access within IoT systems. 
 
@@ -51,7 +51,7 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 
 # Table for Pin Connections
 
-<div align="center">
+<div align = "center">
 
 |Membrane keypad |VSD Squadron mini |
 |---|---|
@@ -66,15 +66,15 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 
 
 
-|Oled screen 1|VSD Squadron mini|
+|OLED display 1 1|VSD Squadron mini|
 |---|---|
 |VCC|VCC|
-|GND|VCC|
+|GND|GND|
 |SCL|PD2|
 |SDA|PD4|
 
 
-|Oled screen 2|VSD Squadron mini|
+|OLED display 2|VSD Squadron mini|
 |---|---|
 |VCC|VCC|
 |GND|GND|
@@ -82,5 +82,3 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 |SDA|PD3|
 
 </div>
-
-
