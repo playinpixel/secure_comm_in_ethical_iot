@@ -64,16 +64,16 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 
 |Oled screen 1|VSD Squadron mini|
 |---|---|
-|VCC|-|
-|GND|-|
+|VCC|VCC|
+|GND|VCC|
 |SCL|PD2|
 |SDA|PD4|
 </div>
 
 |Oled screen 2|VSD Squadron mini|
 |---|---|
-|VCC|-|
-|GND|-|
+|VCC|VCC|
+|GND|GND|
 |SCL|PD1|
 |SDA|PD3|
 
