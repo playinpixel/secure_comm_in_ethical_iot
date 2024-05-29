@@ -46,7 +46,8 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 </div>
 
 # Circuit Connection Diagram
-![Untitled design](https://github.com/playinpixel/8bit-Magik/assets/147128064/dd716306-865b-43e8-b671-386abc4b696f)
+![image](https://github.com/playinpixel/8bit-Magik/assets/128356330/20539bdb-e992-4940-a2e5-0b9376bd2025)
+
 
 
 # Table for Pin Connections
