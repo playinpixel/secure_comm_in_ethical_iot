@@ -62,4 +62,21 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 |C4|PD0|
 </div>
 
+|Oled screen 1|VSD Squadron mini|
+|---|---|
+|VCC|-|
+|GND|-|
+|SCL|PD2|
+|SDA|PD4|
+</div>
+
+|Oled screen 2|VSD Squadron mini|
+|---|---|
+|VCC|-|
+|GND|-|
+|SCL|PD1|
+|SDA|PD3|
+
+
+
 
