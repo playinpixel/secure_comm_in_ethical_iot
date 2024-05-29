@@ -50,6 +50,9 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 
 
 # Table for Pin Connections
+
+<div align="center">
+
 |Membrane keypad |VSD Squadron mini |
 |---|---|
 |R1|PC6|
@@ -60,7 +63,8 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 |C2|PC1|
 |C3|PC0|
 |C4|PD0|
-</div>
+
+
 
 |Oled screen 1|VSD Squadron mini|
 |---|---|
@@ -68,7 +72,7 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 |GND|VCC|
 |SCL|PD2|
 |SDA|PD4|
-</div>
+
 
 |Oled screen 2|VSD Squadron mini|
 |---|---|
@@ -77,6 +81,6 @@ This project demonstrates secure communication using the VSDSquadron microcontro
 |SCL|PD1|
 |SDA|PD3|
 
-
+</div>
 
 
