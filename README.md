@@ -1,3 +1,11 @@
-# Vsd-encryption
+# End-to-end encrypted communication
 
-this is where we work on this stuff lol 
+# Introduction
+
+# Overview
+
+# Components
+
+# Circuit Connection Diagram
+
+# Table for Pin Connections
